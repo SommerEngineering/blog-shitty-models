@@ -57,7 +57,9 @@ Finally, the learning objectives should be reflected upon so that the participan
 I believe that Shitty Models can make a social contribution. People should dare to try things out again. We as a society might benefit from this.
 
 **This post has a DOI, so you can cite it very easily. For example like this:**
+
 Sommer, Thorsten: Shitty Models. DOI: [dx.doi.org/10.5281/zenodo.3601220](https://doi.org/10.5281/zenodo.3601220)
 
 **You can also cite the process we worked out in the workshop:**
+
 Sommer, Thorsten; Schiffeler, Nina; Zachow, Sebastian; Platte, Laura: Shitty Models. protocols.io. DOI: [dx.doi.org/10.17504/protocols.io.ba4gigtw](https://dx.doi.org/10.17504/protocols.io.ba4gigtw)
