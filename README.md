@@ -33,6 +33,7 @@ By the end of the workshop we had developed the following six-step process about
 1. Presentation
 1. Feedback
 
+Let me briefly explain the individual process steps:
 
 1. Framing
 In this first step a context should be established. Why do we work with Shitty Models now? What is the intention behind it? What are the learning objectives? How is the method integrated into the course?
