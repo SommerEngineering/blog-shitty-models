@@ -58,7 +58,7 @@ I believe that Shitty Models can make a social contribution. People should dare 
 
 **This post has a DOI, so you can cite it very easily. For example like this:**
 
-Sommer, Thorsten: Shitty Models. DOI: [dx.doi.org/10.5281/zenodo.3601220](https://doi.org/10.5281/zenodo.3601220)
+Sommer, Thorsten: Shitty Models. DOI: [dx.doi.org/10.5281/zenodo.3601238](https://doi.org/10.5281/zenodo.3601238)
 
 **You can also cite the process we worked out in the workshop:**
 
